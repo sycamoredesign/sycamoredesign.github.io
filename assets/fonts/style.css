@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Vazir-Bold';
+   font-display: swap;
+   src: url('Vazir-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Vazir-Light';
+   font-display: swap;
+   src: url('Vazir-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Vazir-Regular';
+   font-display: swap;
+   src: url('Vazir-Regular/font.ttf');
+}
